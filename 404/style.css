@@ -32,7 +32,6 @@ body{overflow:hidden;}
   width: 40px;
   height: 40px;
   z-index: 9;
-  background-image: url(../images/logo_white.svg);
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: 10px 7px;
@@ -62,19 +61,19 @@ body{overflow:hidden;}
   transition: all 0.8s ease;
 }
 .about .social.portfolio .icon {
-  background-image: url(../fonts/link.svg);
+  background-image: url(.//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/404/fonts/link.svg);
 }
 .about .social.dribbble {
   transition: all 0.3s ease;
 }
 .about .social.dribbble .icon {
-  background-image: url(../fonts/dribbble.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/404/fonts/dribbble.svg);
 }
 .about .social.linkedin {
   transition: all 0.8s ease;
 }
 .about .social.linkedin .icon {
-  background-image: url(../fonts/linkedin.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/404/fonts/linkedin.svg);
 }
 .about:hover {
   width: 105px;
