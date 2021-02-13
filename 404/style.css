@@ -1,5 +1,5 @@
 
-@import url("//fonts.geekzu.org/css?family=Barlow");
+@import url("//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/fonts.css");
 
 *{margin:0;padding:0;}
 body{overflow:hidden;}
@@ -61,19 +61,19 @@ body{overflow:hidden;}
   transition: all 0.8s ease;
 }
 .about .social.portfolio .icon {
-  background-image: url(.//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/404/fonts/link.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/fonts/link.svg);
 }
 .about .social.dribbble {
   transition: all 0.3s ease;
 }
 .about .social.dribbble .icon {
-  background-image: url(//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/404/fonts/dribbble.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/fonts/dribbble.svg);
 }
 .about .social.linkedin {
   transition: all 0.8s ease;
 }
 .about .social.linkedin .icon {
-  background-image: url(//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/404/fonts/linkedin.svg);
+  background-image: url(//cdn.jsdelivr.net/gh/Gongcxgithub/my_file@main/fonts/linkedin.svg);
 }
 .about:hover {
   width: 105px;
